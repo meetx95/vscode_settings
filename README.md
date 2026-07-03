@@ -1,3 +1,4 @@
+``` json
 {
   "editor.fontFamily": "Dank Mono",
   // "editor.fontFamily": "Fragment Mono",
@@ -49,3 +50,5 @@
   "window.newWindowDimensions": "inherit",
   "liveServer.settings.donotShowInfoMsg": true
 }
+
+```
