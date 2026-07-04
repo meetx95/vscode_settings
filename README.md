@@ -6,6 +6,7 @@
   // "editor.fontWeight": "bold",
 
   // editor 
+  "editor.wordWrap": "on", // Code View
   "breadcrumbs.enabled": false,
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
@@ -14,7 +15,6 @@
   "editor.fontSize": 11,
   // "editor.lineNumbers": "off",
   "explorer.confirmDragAndDrop": false,
-  "editor.wordWrap": "on",
   "explorer.confirmDelete": false,
   "reactSnippets.settings.importReactOnTop": false,
   
