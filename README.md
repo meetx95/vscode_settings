@@ -6,7 +6,7 @@
   // "editor.fontWeight": "bold",
 
   // editor 
-  "editor.wordWrap": "on", // Code View
+  "editor.wordWrap": "off", // Code View
   "breadcrumbs.enabled": false,
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
