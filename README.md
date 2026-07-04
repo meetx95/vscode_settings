@@ -12,7 +12,7 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.tabSize": 2,
   "editor.fontSize": 11,
-  "editor.lineNumbers": "off",
+  // "editor.lineNumbers": "off",
   "explorer.confirmDragAndDrop": false,
   "editor.wordWrap": "on",
   "explorer.confirmDelete": false,
@@ -28,7 +28,7 @@
 
   "terminal.integrated.enableMultiLinePasteWarning": false,
   "git.openRepositoryInParentFolders": "never",
-  "workbench.iconTheme": "Monokai Pro Light (Filter Sun) Icons",
+  "workbench.iconTheme": "easy-icons",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.accessibilitySupport": "off",
   "terminal.integrated.env.windows": {},
@@ -50,5 +50,4 @@
   "window.newWindowDimensions": "inherit",
   "liveServer.settings.donotShowInfoMsg": true
 }
-
 ```
