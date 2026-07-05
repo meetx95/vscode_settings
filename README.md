@@ -48,6 +48,8 @@
   "workbench.activityBar.location": "default",
   "php.validate.executablePath": "",
   "window.newWindowDimensions": "inherit",
-  "liveServer.settings.donotShowInfoMsg": true
+  "liveServer.settings.donotShowInfoMsg": true,
+  "jdk.telemetry.enabled": true,
+  "editor.mouseWheelZoom": true
 }
 ```
