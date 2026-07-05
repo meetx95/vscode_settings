@@ -50,6 +50,8 @@
   "window.newWindowDimensions": "inherit",
   "liveServer.settings.donotShowInfoMsg": true,
   "jdk.telemetry.enabled": true,
-  "editor.mouseWheelZoom": true
+  "editor.mouseWheelZoom": true,
+  "editor.formatOnPaste": true,
+  "editor.definitionLinkOpensInPeek": true
 }
 ```
